@@ -10,6 +10,7 @@
 #usage           : connect_sxp.sh
 #notes           : Need to SSH into a remote server with keys. www.socketxp.com (Beta)
 #bash_version    : 4.1.5(1)-release
+#Ref: Remote access your server with SockXP: https://www.socketxp.com/
 #=========================================================================================
 
 
