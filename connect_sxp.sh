@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright (c) 2019 - Younis Amedi < ya@younisamedi.com >
+# Copyright (c) 2019 - Younis Amedi < www.younisamedi.com >
 # This script is licensed under GNU GPL version 2.0 or above
 #=========================================================================================
 #title           : connect_sxp.sh
