@@ -3,6 +3,7 @@
 # Younis Amedi
 # July 2018
 # Must have "ffmpeg" installed
+# This script will split a long audio file to smaller parts: original: Music.mp3 ---> Music000.mp3 Music001.mp3 Music002.mp3 etc...
 # This works with all the common audio format
 ##############
 
